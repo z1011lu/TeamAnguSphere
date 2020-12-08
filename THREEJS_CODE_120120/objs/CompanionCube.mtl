@@ -1,0 +1,13 @@
+# Blender MTL File: 'CompanionCube.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 57.112068
+Ka 0.198473 0.198473 0.198473
+Kd 0.226585 0.226585 0.226585
+Ks 0.335877 0.335877 0.335877
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ke CompanionCubeUV.png
